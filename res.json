@@ -1,0 +1,83 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cigarette Factory Workshop",
+                "height": 20,
+                "material": "concrete"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.937,
+                            38.898
+                        ],
+                        [
+                            -76.938,
+                            38.897
+                        ],
+                        [
+                            -76.938,
+                            38.896
+                        ],
+                        [
+                            -76.937,
+                            38.895
+                        ],
+                        [
+                            -76.936,
+                            38.895
+                        ],
+                        [
+                            -76.936,
+                            38.897
+                        ],
+                        [
+                            -76.937,
+                            38.898
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Storage Warehouse",
+                "height": 15,
+                "material": "steel"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            -76.935,
+                            38.899
+                        ],
+                        [
+                            -76.936,
+                            38.899
+                        ],
+                        [
+                            -76.936,
+                            38.9
+                        ],
+                        [
+                            -76.935,
+                            38.9
+                        ],
+                        [
+                            -76.935,
+                            38.899
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
